@@ -3,13 +3,13 @@
     {
        "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "admobe",
-      "main_ads_intertitial":"admobe",
-      "main_ads_natives":"admobe",
-      "backup_ads_natives":"applovin",
-      "backup_ads_banner":"applovin",
-      "backup_ads_intertitial":"applovin",
-      "open_ads_admob":"admobe",
+      "main_ads_banner": "ca-app-pub-2631643370199907/9408237763",
+      "main_ads_intertitial":"ca-app-pub-2631643370199907/5468992751",
+      "main_ads_natives":"ca-app-pub-2631643370199907/4042343947",
+      "backup_ads_natives":"7bf5ad8a36bb6189",
+      "backup_ads_banner":"218f063762f0ec25",
+      "backup_ads_intertitial":"152afb28225d5f58",
+      "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
@@ -30,709 +30,709 @@
   "Categories": [
     {
       "name_category": "1",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/85/12/dc/8512dca01968b67773b6793f739d4b49.jpg"
     }
   ],
   "Wallpaper": [
     {
       "id": 1,
       "name_category": "1",
-      "wallpaper_name": "Image 1",
+      "wallpaper_name": "Anime Aesthetic 1",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/38/c8/6e/38c86eb987d1ab5cbb969507eb4c6589.jpg"
     },
 	{
       "id": 2,
       "name_category": "1",
-      "wallpaper_name": "Image 2",
+      "wallpaper_name": "Anime Aesthetic 2",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/85/12/dc/8512dca01968b67773b6793f739d4b49.jpg"
     },
 	{
       "id": 3,
       "name_category": "1",
-      "wallpaper_name": "Image 3",
+      "wallpaper_name": "Anime Aesthetic 3",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/52/cf/78/52cf783b08b8083d276fcd9938a76fb1.jpg"
     },
 	{
       "id": 4,
       "name_category": "1",
-      "wallpaper_name": "Image 4",
+      "wallpaper_name": "Anime Aesthetic 4",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/dc/2e/57/dc2e5733c3eac580cdf12d1002193a6a.jpg"
     },
 	{
       "id": 5,
       "name_category": "1",
-      "wallpaper_name": "Image 5",
+      "wallpaper_name": "Anime Aesthetic 5",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/eb/1e/92/eb1e92553bc2044233ee65dab081b4e3.jpg"
     },
 	{
       "id": 6,
       "name_category": "1",
-      "wallpaper_name": "Image 6",
+      "wallpaper_name": "Anime Aesthetic 6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e5/aa/0e/e5aa0ebfac0b77241d1c7f93b24468c7.jpg"
     },
 	{
       "id": 7,
       "name_category": "1",
-      "wallpaper_name": "Image 7",
+      "wallpaper_name": "Anime Aesthetic 7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/80/0b/e9800bc8a216da4b6fdb21cef501c045.jpg"
     },
 	{
       "id": 8,
       "name_category": "1",
-      "wallpaper_name": "Image 8",
+      "wallpaper_name": "Anime Aesthetic 8",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/fe/60/f5/fe60f52ff0ec073cafc6baec828b46c2.jpg"
     },
 	{
       "id": 9,
       "name_category": "1",
-      "wallpaper_name": "Image 9",
+      "wallpaper_name": "Anime Aesthetic 9",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/be/01/8d/be018deb0c9bb41b4a7fefca086e29db.jpg"
     },
 	{
       "id": 10,
       "name_category": "1",
-      "wallpaper_name": "Image 10",
+      "wallpaper_name": "Anime Aesthetic 10",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ac/8e/8f/ac8e8ffb276b26428ee1b0054aac39c4.jpg"
     },
 	{
       "id": 11,
       "name_category": "1",
-      "wallpaper_name": "Image 11",
+      "wallpaper_name": "Anime Aesthetic 11",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ce/68/6f/ce686fea39748fb45df692252876cd69.jpg"
     },
 	{
       "id": 12,
       "name_category": "1",
-      "wallpaper_name": "Image 12",
+      "wallpaper_name": "Anime Aesthetic 12",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/2a/f2/cc/2af2cc200bc5ad76b689933b9bd00d69.jpg"
     },
 	{
       "id": 13,
       "name_category": "1",
-      "wallpaper_name": "Image 13",
+      "wallpaper_name": "Anime Aesthetic 13",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/34/85/6c/34856c75f11f1a7662029fe207cf471a.jpg"
     },
 	{
       "id": 14,
       "name_category": "1",
-      "wallpaper_name": "Image 14",
+      "wallpaper_name": "Anime Aesthetic 14",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/736x/0f/7d/7b/0f7d7bf2ac689457b28dd2237940ce4b.jpg"
     },
 	{
       "id": 15,
       "name_category": "1",
-      "wallpaper_name": "Image 15",
+      "wallpaper_name": "Anime Aesthetic 15",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ae/59/ab/ae59ab0ae1aa3a952b57114bc8a0b973.jpg"
     },
 	{
       "id": 16,
       "name_category": "1",
-      "wallpaper_name": "Image 16",
+      "wallpaper_name": "Anime Aesthetic 16",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/cc/80/b6cc804774e5f674cdd0bc94231c99bf.jpg"
     },
 	{
       "id": 17,
       "name_category": "1",
-      "wallpaper_name": "Image 17",
+      "wallpaper_name": "Anime Aesthetic 17",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/80/a8/b4/80a8b4cae2e103c657b572f481d3a49f.jpg"
     },
 	{
       "id": 18,
       "name_category": "1",
-      "wallpaper_name": "Image 18",
+      "wallpaper_name": "Anime Aesthetic 18",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/72/09/82/7209825c01d6d88585b5fa26dd4186bf.jpg"
     },
 	{
       "id": 19,
       "name_category": "1",
-      "wallpaper_name": "Image 19",
+      "wallpaper_name": "Anime Aesthetic 19",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/9c/34/b3/9c34b3d1788875848d0617289292a34e.jpg"
     },
 	{
       "id": 20,
       "name_category": "1",
-      "wallpaper_name": "Image 20",
+      "wallpaper_name": "Anime Aesthetic 20",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/27/a5/32/27a532b06a3c52905c135b29c656870f.jpg"
     },
 	{
       "id": 21,
       "name_category": "1",
-      "wallpaper_name": "Image 21",
+      "wallpaper_name": "Anime Aesthetic 21",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/c9/4f/6b/c94f6b6d4a39b98d109f7ebc968cdc28.jpg"
     },
 	{
       "id": 22,
       "name_category": "1",
-      "wallpaper_name": "Image 22",
+      "wallpaper_name": "Anime Aesthetic 22",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/37/8f/23/378f239386198ac2979c307ff5bf1cb6.jpg"
     },
 	{
       "id": 23,
       "name_category": "1",
-      "wallpaper_name": "Image 23",
+      "wallpaper_name": "Anime Aesthetic 23",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/750x/cc/e9/ac/cce9acaefa705e0ecd928b44b8ba1d65.jpg"
     },
 	{
       "id": 24,
       "name_category": "1",
-      "wallpaper_name": "Image 24",
+      "wallpaper_name": "Anime Aesthetic 24",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/07/90/e3/0790e3f5d272a73531e0512db969b261.jpg"
     },
 	{
       "id": 25,
       "name_category": "1",
-      "wallpaper_name": "Image 25",
+      "wallpaper_name": "Anime Aesthetic 25",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/6e/8a/4f/6e8a4f4c8b06317c6ee33496d1025663.jpg"
     },
 	{
       "id": 26,
       "name_category": "1",
-      "wallpaper_name": "Image 26",
+      "wallpaper_name": "Anime Aesthetic 26",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d1/e7/78/d1e778cf064d9d77e7484f9d25a56dca.jpg"
     },
 	{
       "id": 27,
       "name_category": "1",
-      "wallpaper_name": "Image 27",
+      "wallpaper_name": "Anime Aesthetic 27",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/5f/ad/f7/5fadf7b3d783c2d19b2e20bc2a2d9f8d.jpg"
     },
 	{
       "id": 28,
       "name_category": "1",
-      "wallpaper_name": "Image 28",
+      "wallpaper_name": "Anime Aesthetic 28",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/52/b9/9d/52b99dbfb5f12f0f4ba778690f9193d3.jpg"
     },
 	{
       "id": 29,
       "name_category": "1",
-      "wallpaper_name": "Image 29",
+      "wallpaper_name": "Anime Aesthetic 29",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/44/97/51/449751c2131fe36218949444a3a1687c.jpg"
     },
 	{
       "id": 30,
       "name_category": "1",
-      "wallpaper_name": "Image 30",
+      "wallpaper_name": "Anime Aesthetic 30",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/43/3f/4f/433f4f7b1ffdfd5a559deaee1469b187.jpg"
     },
 	{
       "id": 31,
       "name_category": "1",
-      "wallpaper_name": "Image 31",
+      "wallpaper_name": "Anime Aesthetic 31",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ad/8c/75/ad8c75945a72f1f9b9b2736e197ab8c1.jpg"
     },
 	{
       "id": 32,
       "name_category": "1",
-      "wallpaper_name": "Image 32",
+      "wallpaper_name": "Anime Aesthetic 32",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/a3/2e/52/a32e52323bf117425e5454dfdf56722d.jpg"
     },
 	{
       "id": 33,
       "name_category": "1",
-      "wallpaper_name": "Image 33",
+      "wallpaper_name": "Anime Aesthetic 33",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/750x/85/dd/5d/85dd5daecedfeb65b17df2bf6f5274fb.jpg"
     },
 	{
       "id": 34,
       "name_category": "1",
-      "wallpaper_name": "Image 34",
+      "wallpaper_name": "Anime Aesthetic 34",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/736x/fa/70/00/fa70008a07ecf91636553e3791a31cc5.jpg"
     },
 	{
       "id": 35,
       "name_category": "1",
-      "wallpaper_name": "Image 35",
+      "wallpaper_name": "Anime Aesthetic 35",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/18/10/1f/18101f80265f18cabf57da26a946c2bf.jpg"
     },
 	{
       "id": 36,
       "name_category": "1",
-      "wallpaper_name": "Image 36",
+      "wallpaper_name": "Anime Aesthetic 36",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/df/6a/c1/df6ac1cd65e184cd8d8b341459164191.jpg"
     },
 	{
       "id": 37,
       "name_category": "1",
-      "wallpaper_name": "Image 37",
+      "wallpaper_name": "Anime Aesthetic 37",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/15/46/9e/15469e6f02f0a0d3da572d6b6e5cb991.jpg"
     },
 	{
       "id": 38,
       "name_category": "1",
-      "wallpaper_name": "Image 38",
+      "wallpaper_name": "Anime Aesthetic 38",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/79/e0/48/79e048fef49e62f8ef94c55a33bf36d5.jpg"
     },
 	{
       "id": 39,
       "name_category": "1",
-      "wallpaper_name": "Image 39",
+      "wallpaper_name": "Anime Aesthetic 39",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/9e/b9/01/9eb901aca666ac428a1729d771d0b293.jpg"
     },
 	{
       "id": 40,
       "name_category": "1",
-      "wallpaper_name": "Image 40",
+      "wallpaper_name": "Anime Aesthetic 40",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/57/a7/81/57a781bb60430daac8f27a327e71279c.jpg"
     },
 	{
       "id": 41,
       "name_category": "1",
-      "wallpaper_name": "Image 41",
+      "wallpaper_name": "Anime Aesthetic 41",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d0/32/cc/d032cc79537c4304cb08a1f9428ef422.jpg"
     },
 	{
       "id": 42,
       "name_category": "1",
-      "wallpaper_name": "Image 42",
+      "wallpaper_name": "Anime Aesthetic 42",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/68/ca/73/68ca7327059ec0767a0bc3aa07633f57.jpg"
     },
 	{
       "id": 43,
       "name_category": "1",
-      "wallpaper_name": "Image 43",
+      "wallpaper_name": "Anime Aesthetic 43",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/1c/d3/08/1cd30885af13e583ef9ac4d3b1171f76.jpg"
     },
 	{
       "id": 44,
       "name_category": "1",
-      "wallpaper_name": "Image 44",
+      "wallpaper_name": "Anime Aesthetic 44",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/12/c6/49/12c649a41008354a622dd9172a113556.jpg"
     },
 	{
       "id": 45,
       "name_category": "1",
-      "wallpaper_name": "Image 45",
+      "wallpaper_name": "Anime Aesthetic 45",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d4/97/50/d49750553a5eaf233b669f517d84bf98.jpg"
     },
 	{
       "id": 46,
       "name_category": "1",
-      "wallpaper_name": "Image 46",
+      "wallpaper_name": "Anime Aesthetic 46",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ab/52/92/ab5292d84d26a24b54fe8dd147d77d6a.jpg"
     },
 	{
       "id": 47,
       "name_category": "1",
-      "wallpaper_name": "Image 47",
+      "wallpaper_name": "Anime Aesthetic 47",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/29/9e/95/299e950a724fe8653a1cdea3c5e1542e.jpg"
     },
 	{
       "id": 48,
       "name_category": "1",
-      "wallpaper_name": "Image 48",
+      "wallpaper_name": "Anime Aesthetic 48",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/57/ad/d0/57add0de07f66c57ebbbfba23e1d3442.jpg"
     },
 	{
       "id": 49,
       "name_category": "1",
-      "wallpaper_name": "Image 49",
+      "wallpaper_name": "Anime Aesthetic 49",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/fe/00/06/fe00069cb5ba9ef4b8d5fc8091f8a48a.jpg"
     },
 	{
       "id": 50,
       "name_category": "1",
-      "wallpaper_name": "Image 50",
+      "wallpaper_name": "Anime Aesthetic 50",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d7/a1/cb/d7a1cb10fdf5170b902e28c831ad8c5b.jpg"
     },
 	{
       "id": 51,
       "name_category": "1",
-      "wallpaper_name": "Image 51",
+      "wallpaper_name": "Anime Aesthetic 51",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/c4/af/2c/c4af2c18a13b68295e36ab41435ee98d.jpg"
     },
 	{
       "id": 52,
       "name_category": "1",
-      "wallpaper_name": "Image 52",
+      "wallpaper_name": "Anime Aesthetic 52",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/07/e3/5c/07e35c74c196abf0bfb18d8a2fa5e6ce.jpg"
     },
 	{
       "id": 53,
       "name_category": "1",
-      "wallpaper_name": "Image 53",
+      "wallpaper_name": "Anime Aesthetic 53",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/c1/08/c2c108e6450dacfe1c7a0b111ce515ce.jpg"
     },
 	{
       "id": 54,
       "name_category": "1",
-      "wallpaper_name": "Image 54",
+      "wallpaper_name": "Anime Aesthetic 54",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/94/56/9b/94569bad87f6ec9c438513c6c1680bc2.jpg"
     },
 	{
       "id": 55,
       "name_category": "1",
-      "wallpaper_name": "Image 55",
+      "wallpaper_name": "Anime Aesthetic 55",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/33/d2/ac/33d2acda3b8b66e34f7aeae867338086.jpg"
     },
 	{
       "id": 56,
       "name_category": "1",
-      "wallpaper_name": "Image 56",
+      "wallpaper_name": "Anime Aesthetic 56",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/c9/76/8a/c9768a46126860c1ea6883f01143941a.jpg"
     },
 	{
       "id": 57,
       "name_category": "1",
-      "wallpaper_name": "Image 57",
+      "wallpaper_name": "Anime Aesthetic 57",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/4a/e6/80/4ae680f876d26ae755ac2cf4895678ea.jpg"
     },
 	{
       "id": 58,
       "name_category": "1",
-      "wallpaper_name": "Image 58",
+      "wallpaper_name": "Anime Aesthetic 58",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/b7/f4/b4/b7f4b4913404ec1c99dd8e3a13013f77.jpg"
     },
 	{
       "id": 59,
       "name_category": "1",
-      "wallpaper_name": "Image 59",
+      "wallpaper_name": "Anime Aesthetic 59",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/cb/2d/f5/cb2df5cc8a8c141c44bcc71fa07bd799.jpg"
     },
 	{
       "id": 60,
       "name_category": "1",
-      "wallpaper_name": "Image 60",
+      "wallpaper_name": "Anime Aesthetic 60",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/70/6e/94/706e9426937b65d78b191d1ffcff1213.jpg"
     },
 	{
       "id": 61,
       "name_category": "1",
-      "wallpaper_name": "Image 61",
+      "wallpaper_name": "Anime Aesthetic 61",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e3/75/b1/e375b1b63d2a320db1fc3785ec8916d2.jpg"
     },
 	{
       "id": 62,
       "name_category": "1",
-      "wallpaper_name": "Image 62",
+      "wallpaper_name": "Anime Aesthetic 62",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/62/08/55/620855c35cb118e7ee6e34f341696789.jpg"
     },
 	{
       "id": 63,
       "name_category": "1",
-      "wallpaper_name": "Image 63",
+      "wallpaper_name": "Anime Aesthetic 63",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/c9/0d/e4/c90de4c9b83e65a21bef44601f063fb5.jpg"
     },
 	{
       "id": 64,
       "name_category": "1",
-      "wallpaper_name": "Image 64",
+      "wallpaper_name": "Anime Aesthetic 64",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/18/a5/9b/18a59bf5879b039042eb06834be1e113.jpg"
     },
 	{
       "id": 65,
       "name_category": "1",
-      "wallpaper_name": "Image 65",
+      "wallpaper_name": "Anime Aesthetic 65",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/65/cf/6b/65cf6b2b9613ca1a34014135e5a01377.jpg"
     },
 	{
       "id": 66,
       "name_category": "1",
-      "wallpaper_name": "Image 66",
+      "wallpaper_name": "Anime Aesthetic 66",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/736x/63/43/42/6343420b4ee2d9b80bf0ad2747f88dbe.jpg"
     },
 	{
       "id": 67,
       "name_category": "1",
-      "wallpaper_name": "Image 67",
+      "wallpaper_name": "Anime Aesthetic 67",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/e8/c5/9d/e8c59de0dbc1d5d77b1741f3266caba9.jpg"
     },
 	{
       "id": 68,
       "name_category": "1",
-      "wallpaper_name": "Image 68",
+      "wallpaper_name": "Anime Aesthetic 68",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/b2/5d/0c/b25d0c5a29cc6dafaf80dfeba17bf27a.jpg"
     },
 	{
       "id": 69,
       "name_category": "1",
-      "wallpaper_name": "Image 69",
+      "wallpaper_name": "Anime Aesthetic 69",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/87/74/19/877419a6a4c7ccdd73f0e98e84f0667d.jpg"
     },
 	{
       "id": 70,
       "name_category": "1",
-      "wallpaper_name": "Image 70",
+      "wallpaper_name": "Anime Aesthetic 70",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/86/eb/66/86eb662a680ae316dace03b312886875.jpg"
     },
 	{
       "id": 71,
       "name_category": "1",
-      "wallpaper_name": "Image 71",
+      "wallpaper_name": "Anime Aesthetic 71",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/35/e3/ed/35e3ed34e2ef4e6eff99d8b32154a3cc.jpg"
     },
 	{
       "id": 72,
       "name_category": "1",
-      "wallpaper_name": "Image 72",
+      "wallpaper_name": "Anime Aesthetic 72",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/a6/15/87/a61587345e7d9bfb033795e028acca59.jpg"
     },
 	{
       "id": 73,
       "name_category": "1",
-      "wallpaper_name": "Image 73",
+      "wallpaper_name": "Anime Aesthetic 73",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/f6/e0/77/f6e0779531c71de2f0cbd26f9c1334f2.jpg"
     },
 	{
       "id": 74,
       "name_category": "1",
-      "wallpaper_name": "Image 74",
+      "wallpaper_name": "Anime Aesthetic 74",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/70/61/42/7061429adcaf0b8d42e25a4df0fb11e5.jpg"
     },
 	{
       "id": 75,
       "name_category": "1",
-      "wallpaper_name": "Image 75",
+      "wallpaper_name": "Anime Aesthetic 75",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/76/6d/10/766d10eba7c9fbabcb3adcb9be347ba8.jpg"
     },
 	{
       "id": 76,
       "name_category": "1",
-      "wallpaper_name": "Image 76",
+      "wallpaper_name": "Anime Aesthetic 76",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ec/58/e5/ec58e5e9d8246d98b8ce063787d8714b.jpg"
     },
 	{
       "id": 77,
       "name_category": "1",
-      "wallpaper_name": "Image 77",
+      "wallpaper_name": "Anime Aesthetic 77",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d0/80/e6/d080e6c48134893527cdec4859fb8f6f.jpg"
     },
 	{
       "id": 78,
       "name_category": "1",
-      "wallpaper_name": "Image 78",
+      "wallpaper_name": "Anime Aesthetic 78",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/97/13/b2/9713b23d241774cfad95f6aa39968d48.jpg"
     },
 	{
       "id": 79,
       "name_category": "1",
-      "wallpaper_name": "Image 79",
+      "wallpaper_name": "Anime Aesthetic 79",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/f9/c4/83/f9c4830e07e0993a6b1d22c57e5d1525.jpg"
     },
 	{
       "id": 80,
       "name_category": "1",
-      "wallpaper_name": "Image 80",
+      "wallpaper_name": "Anime Aesthetic 80",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/cc/b4/61/ccb461f803bb2b93d8cc7e1e1709077f.jpg"
     },
 	{
       "id": 81,
       "name_category": "1",
-      "wallpaper_name": "Image 81",
+      "wallpaper_name": "Anime Aesthetic 81",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ee/ad/4d/eead4de12e37b067c7ba2e224f71b900.jpg"
     },
 	{
       "id": 82,
       "name_category": "1",
-      "wallpaper_name": "Image 82",
+      "wallpaper_name": "Anime Aesthetic 82",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/93/eb/0a/93eb0a8fcd7103d89986716611594758.jpg"
     },
 	{
       "id": 83,
       "name_category": "1",
-      "wallpaper_name": "Image 83",
+      "wallpaper_name": "Anime Aesthetic 83",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/57/da/62/57da62fdb3785232bae8f68a3ced9830.jpg"
     },
 	{
       "id": 84,
       "name_category": "1",
-      "wallpaper_name": "Image 84",
+      "wallpaper_name": "Anime Aesthetic 84",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/69/e7/61/69e76182f305ff4a5312528db9048418.jpg"
     },
 	{
       "id": 85,
       "name_category": "1",
-      "wallpaper_name": "Image 85",
+      "wallpaper_name": "Anime Aesthetic 85",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/b4/16/fa/b416fa30fc938a23108d38412d76f07f.jpg"
     },
 	{
       "id": 86,
       "name_category": "1",
-      "wallpaper_name": "Image 86",
+      "wallpaper_name": "Anime Aesthetic 86",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/a8/f8/75/a8f8758fb14cedd76fe6ced1a12616d6.jpg"
     },
 	{
       "id": 87,
       "name_category": "1",
-      "wallpaper_name": "Image 87",
+      "wallpaper_name": "Anime Aesthetic 87",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/10/2f/05/102f058fce1d655d9a50aa083bf4b33a.jpg"
     },
 	{
       "id": 88,
       "name_category": "1",
-      "wallpaper_name": "Image 88",
+      "wallpaper_name": "Anime Aesthetic 88",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/ed/05/79/ed0579541814afbde2a46647a0e241ea.jpg"
     },
 	{
       "id": 89,
       "name_category": "1",
-      "wallpaper_name": "Image 89",
+      "wallpaper_name": "Anime Aesthetic 89",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d0/1c/c8/d01cc8663a106d24271a423ebb61d367.jpg"
     },
 	{
       "id": 90,
       "name_category": "1",
-      "wallpaper_name": "Image 90",
+      "wallpaper_name": "Anime Aesthetic 90",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/fe/60/0a/fe600a731fccd54d994c2f7078392ea1.jpg"
     },
 	{
       "id": 91,
       "name_category": "1",
-      "wallpaper_name": "Image 91",
+      "wallpaper_name": "Anime Aesthetic 91",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/d0/c7/5b/d0c75b911ca841827d32f85c6e43b0c6.jpg"
     },
 	{
       "id": 92,
       "name_category": "1",
-      "wallpaper_name": "Image 92",
+      "wallpaper_name": "Anime Aesthetic 92",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/3f/5c/54/3f5c547500b3f965f60b2fbc853adff9.jpg"
     },
 	{
       "id": 93,
       "name_category": "1",
-      "wallpaper_name": "Image 93",
+      "wallpaper_name": "Anime Aesthetic 93",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/61/10/e9/6110e92ce4a98f6147ecdd227a0928d6.jpg"
     },
 	{
       "id": 94,
       "name_category": "1",
-      "wallpaper_name": "Image 94",
+      "wallpaper_name": "Anime Aesthetic 94",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/fc/d0/8e/fcd08e02d7bce925382e66d1e9f16563.jpg"
     },
 	{
       "id": 95,
       "name_category": "1",
-      "wallpaper_name": "Image 95",
+      "wallpaper_name": "Anime Aesthetic 95",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/85/2d/08/852d0889431e92eb18fcbb2cd0627253.jpg"
     },
 	{
       "id": 96,
       "name_category": "1",
-      "wallpaper_name": "Image 96",
+      "wallpaper_name": "Anime Aesthetic 96",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/86/7b/06/867b061b69abec382608609be343de28.jpg"
     },
 	{
       "id": 97,
       "name_category": "1",
-      "wallpaper_name": "Image 97",
+      "wallpaper_name": "Anime Aesthetic 97",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/23/c6/31/23c6311c00e98b8f32f859a89ca4ebd6.jpg"
     },
 	{
       "id": 98,
       "name_category": "1",
-      "wallpaper_name": "Image 98",
+      "wallpaper_name": "Anime Aesthetic 98",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/736x/27/26/06/2726067127c4d5b9f72541f0b8830880.jpg"
     },
 	{
       "id": 99,
       "name_category": "1",
-      "wallpaper_name": "Image 99",
+      "wallpaper_name": "Anime Aesthetic 99",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/5c/22/3b/5c223b859f0023b563f1120e5fc567ec.jpg"
     },
 	{
       "id": 100,
       "name_category": "1",
-      "wallpaper_name": "Image 100",
+      "wallpaper_name": "Anime Aesthetic 100",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "imagelink"
+      "wallpaper_url": "https://i.pinimg.com/564x/db/9e/78/db9e784c0976696090d3a9beb3ad3b74.jpg"
     }
     
   ]
